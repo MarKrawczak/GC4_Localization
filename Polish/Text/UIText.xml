@@ -107,7 +107,7 @@
   </StringTable>
   <StringTable>
     <Label>Rushed</Label>
-    <String>Pośpieszny</String>
+    <String>Przyspieszony</String>
   </StringTable>
   <StringTable>
     <Label>None</Label>
@@ -427,11 +427,11 @@
   </StringTable>
   <StringTable>
     <Label>PLANETFREQUENCYSETTINGLABEL</Label>
-    <String>Częstotliwość Planety</String>
+    <String>Częstotliwość Planet</String>
   </StringTable>
   <StringTable>
     <Label>STORMFREQUENCYSETTINGLABEL</Label>
-    <String>Częstotliwość Burzy</String>
+    <String>Częstotliwość Burz</String>
   </StringTable>
   <StringTable>
     <Label>HOSTILEENTITIESFREQUENCYLABEL</Label>
@@ -495,7 +495,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXYSECTORSIZESETTINGLABEL</Label>
-    <String>Rozpoczęcie Rozmiaru Sektora</String>
+    <String>Rozmiar Początkowego Sektora</String>
   </StringTable>
   <StringTable>
     <Label>PLAYERSTARTINGLOCATIONSETTINGLABEL</Label>
@@ -527,11 +527,11 @@
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONHOMEWORLDLABEL</Label>
-    <String>Rodzinna planeta</String>
+    <String>Planeta Macierzysta</String>
   </StringTable>
   <StringTable>
     <Label>GALAXY_OPTIONS_DESCRIPTION</Label>
-    <String>Dostosuj Makijaż Galaktyki</String>
+    <String>Dostosuj Wygląd Galaktyki</String>
   </StringTable>
   <StringTable>
     <Label>GALAXYTYPESETTINGLABEL</Label>
@@ -539,7 +539,7 @@
   </StringTable>
   <StringTable>
     <Label>NEBULAFREQUENCYSETTINGLABEL</Label>
-    <String>mgławice</String>
+    <String>Mgławice</String>
   </StringTable>
   <StringTable>
     <Label>ADVANCED_SETTINGS_LABEL</Label>
@@ -683,19 +683,19 @@
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory</Label>
-    <String>Brak FOW na terytorium</String>
+    <String>Brak Mgły Wojny na terytorium</String>
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory_Description</Label>
-    <String>Brak mgły wojny w granicach twojego terytorium.</String>
+    <String>Brak Mgły Wojny wewnątrz Twoich granic.</String>
   </StringTable>
   <StringTable>
     <Label>RELICSFREQUENCYSETTINGLABEL</Label>
-    <String>Częstotliwość Reliktu Precursora</String>
+    <String>Częstotliwość Reliktów Precursorów</String>
   </StringTable>
   <StringTable>
     <Label>ASCENSIONGATESFREQUENCYSETTINGLABEL</Label>
-    <String>Częstotliwość Kryształu Wniebowstąpienia</String>
+    <String>Częstotliwość Kryształów Ascendencji</String>
   </StringTable>
   <StringTable>
     <Label>Singular</Label>
@@ -707,7 +707,7 @@
   </StringTable>
   <StringTable>
     <Label>Few</Label>
-    <String>Kilka</String>
+    <String>Trochę</String>
   </StringTable>
   <StringTable>
     <Label>Several</Label>
@@ -719,7 +719,7 @@
   </StringTable>
   <StringTable>
     <Label>StartClose</Label>
-    <String>Zamknij</String>
+    <String>Blisko</String>
   </StringTable>
   <StringTable>
     <Label>StartNearAIPlayer</Label>
@@ -727,15 +727,15 @@
   </StringTable>
   <StringTable>
     <Label>DistancedFromOtherPlayers</Label>
-    <String>Daleki</String>
-  </StringTable>
-  <StringTable>
-    <Label>StartAloneInSector</Label>
     <String>Daleko</String>
   </StringTable>
   <StringTable>
+    <Label>StartAloneInSector</Label>
+    <String>Bardzo Daleko</String>
+  </StringTable>
+  <StringTable>
     <Label>StartRandom</Label>
-    <String>Losowy</String>
+    <String>Losowo</String>
   </StringTable>
   <StringTable>
     <Label>StartClose_Description</Label>
@@ -747,7 +747,7 @@
   </StringTable>
   <StringTable>
     <Label>DistancedFromOtherPlayers_Description</Label>
-    <String>Rozpocznij samotnie w sektorach mniejszych niż średnie, w przeciwnym razie zapewniona jest maksymalna odległość od innych cywilizacji.</String>
+    <String>Rozpoczniesz samotnie w sektorach mniejszych niż średnie, w przeciwnym razie zapewniona jest maksymalna odległość od innych cywilizacji.</String>
   </StringTable>
   <StringTable>
     <Label>StartAloneInSector_Description</Label>
@@ -759,43 +759,43 @@
   </StringTable>
   <StringTable>
     <Label>Tiny</Label>
-    <String>Drobny</String>
+    <String>Malutka</String>
   </StringTable>
   <StringTable>
     <Label>Small</Label>
-    <String>Mały</String>
+    <String>Mała</String>
   </StringTable>
   <StringTable>
     <Label>Medium</Label>
-    <String>Średni</String>
+    <String>Średnia</String>
   </StringTable>
   <StringTable>
     <Label>Large</Label>
-    <String>Duży</String>
+    <String>Duża</String>
   </StringTable>
   <StringTable>
     <Label>Huge</Label>
-    <String>Ogromny</String>
+    <String>Ogromna</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Tiny</Label>
-    <String>Drobny</String>
+    <String>Malutka</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Small</Label>
-    <String>Mały</String>
+    <String>Mała</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Medium</Label>
-    <String>Średni</String>
+    <String>Średnia</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Huge</Label>
-    <String>Duży</String>
+    <String>Duża</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Immense</Label>
-    <String>Gigantyczny</String>
+    <String>Ogromna</String>
   </StringTable>
   <StringTable>
     <Label>Rare</Label>
